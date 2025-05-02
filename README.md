@@ -23,11 +23,11 @@
 
 <h2>📁 Estrutura do Projeto</h2>
 <pre><code>poker_simulador/
-├── app.py                 # Interface principal Streamlit
-├── poker_logic.py         # Cálculo das probabilidades (Monte Carlo + treys)
-├── requirements.txt       # Lista de bibliotecas
+├── app.py                 
+├── poker_logic.py         
 └── components/
-    └── card_selector.py   # Função para seleção de cartas (via selectbox)
+    └── card_selector.py   
+    └── show_card.py
 </code></pre>
 
 <h2>✅ Como usar</h2>
