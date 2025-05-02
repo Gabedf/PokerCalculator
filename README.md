@@ -3,34 +3,6 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Simulador de Poker - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px auto;
-            max-width: 800px;
-            background: #f9f9f9;
-            padding: 20px;
-            color: #333;
-        }
-        h1, h2 {
-            color: #1e88e5;
-        }
-        pre {
-            background: #eee;
-            padding: 1em;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        code {
-            background: #e0e0e0;
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-        ul {
-            padding-left: 20px;
-        }
-    </style>
 </head>
 <body>
 
