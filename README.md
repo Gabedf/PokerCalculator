@@ -30,20 +30,6 @@
     └── show_card.py
 </code></pre>
 
-<h2>✅ Como usar</h2>
-<ol>
-    <li><strong>Clone o repositório:</strong>
-        <pre><code>git clone https://github.com/seu-usuario/poker_simulador.git
-cd poker_simulador</code></pre>
-    </li>
-    <li><strong>Instale as dependências:</strong>
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
-    <li><strong>Execute o aplicativo:</strong>
-        <pre><code>streamlit run app.py</code></pre>
-    </li>
-</ol>
-
 <h2>🧠 Como funciona</h2>
 <p>
     A simulação utiliza o pacote <code>treys</code> para avaliar a força das mãos de poker.  
